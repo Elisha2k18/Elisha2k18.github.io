@@ -1,0 +1,28 @@
+#container {
+margin-top: 25px;
+margin-left: 30px;
+margin-right: 150px;
+padding: 50px 30px 50px 80px;
+border-radius: 25px;
+background-color: #FFD700;
+text-alligh: left;
+}
+
+#content-work experience {
+font-size: 35px;
+}
+
+h1 {
+font-size: 64px;
+margin-bottom:25px;
+}
+
+h2 {
+font-size: 15px;
+margin-bottom: -6px
+}
+
+li {
+font-size: 15px
+text-align: left;
+}
